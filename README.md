@@ -13,7 +13,7 @@ ao padrão da linguagem.
 
 ## Estrutura Léxica
 
-1. Consunto de Caracteres
+1. Conjunto de Caracteres
 
 Os programas JavaScript são escritos com o conjunto de caracteres Unicode. Unicode é um su-
 perconjunto de ASCII e Latin-1 e suporta praticamente todos os idiomas escritos usados hoje no
